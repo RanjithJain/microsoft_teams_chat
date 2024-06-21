@@ -87,3 +87,19 @@ Params in the body
 }
 
 </p>
+
+Some values in authController.js code which needs to be updated are
+
+const clientId = "xxxx";
+
+const clientSecret = "xxxx";
+
+const tenantId = "xxxx";
+
+username: "xxx",
+
+password: "xxxx",
+
+In subscriptionController.js change display name as from which id auto reply should be sent
+
+displayName === "xxxxx"
